@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 1px red solid;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #19192D;
+}
+
+.buscador {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 60%;
+    height: 3rem;
+    top: 4rem;
+    left: 20%;
+}
+
+.buscador>button{
+
+}
